@@ -60,13 +60,12 @@ I'm a Computer Engineering graduate with expertise in software development, IoT,
 
 <!-- Additional Information -->
 ### :information_source: Additional Information
-- **Languages:** Arabic, English
 - **Interests:** Cybersecurity, Robotics, Data Analysis, Computer Networks
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmoatasemAlrubkhi&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmoatasemAlrubkhi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
