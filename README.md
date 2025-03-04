@@ -45,7 +45,7 @@ I'm a Computer Engineering graduate with expertise in software development, IoT,
 ### :gear: Technical Skills
 - **Programming Languages:** Java, Python, SQL, C++, Go
 - **Technologies:** Golang (Gin, GORM), Flutter, Firebase, Flask, PostgreSQL
-- **Areas of Expertise:** Backend Development, RESTful & gRPC APIs, Embedded Systems, IoT, Cybersecurity, Cloud Computing
+- **Areas of Expertise:** Backend Development, Frontend Development, RESTful & gRPC APIs, Embedded Systems, IoT, Cybersecurity, Cloud Computing
 
 ---
 
